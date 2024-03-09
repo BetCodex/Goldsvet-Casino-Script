@@ -8,10 +8,10 @@ Goldsvet is a complete Casino script. Games do not require API. All games are cr
 <b>Video:</b> https://youtu.be/N7RufQv7lLo
 <br>
 <br>
-<b>Link:</b> https://betcodex.com/en/item/goldsvet
+<b>Link:</b> https://betcodex.com/item/goldsvet
 <br>
 <br>
-<b>New 92 Pragmatic Games:</b> https://betcodex.com/en/item/goldsvet-new-92-pragmatic-games
+<b>New 92 Pragmatic Games:</b> https://betcodex.com/item/goldsvet-new-92-pragmatic-games
 <br>
 <br>
 <b>Features</b>
