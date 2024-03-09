@@ -1,8 +1,8 @@
 # Goldsvet-Casino-Script
+![Goldsvet](https://github.com/BetCodex/Goldsvet-Casino-Script/assets/162466962/1f339c05-9e9e-462b-8187-7a7ad162c922)
+<br>
+<br>
 Goldsvet is a complete Casino script. Games do not require API. All games are cracked.
-<br>
-<br>
-![1](https://github.com/BetCodex/Goldsvet-Casino-Script/assets/162466962/1f339c05-9e9e-462b-8187-7a7ad162c922)
 <br>
 <br>
 <b>Video:</b> https://youtu.be/N7RufQv7lLo
